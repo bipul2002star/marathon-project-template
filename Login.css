@@ -1,0 +1,52 @@
+.login {
+    background-color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login__logo {
+
+
+    margin: auto;
+    color: orangered;
+    margin-top: 26px;
+    margin-bottom: 54px;
+   
+  }
+
+.login__container {
+    width: 50%;
+    height: fit-content;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    border: 1px solid lightgray;
+    background-color :pink;
+    padding: 20px;
+}
+
+.login__container > h1 {
+    font-weight: 600;
+    margin-bottom: 40px;
+  }
+
+.login__container > form > h5 {
+    margin-bottom: 10px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;  }
+.login__container > form > input {
+    height: 46px;
+    margin-bottom: 16px;
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+  }
+
+
+.btn-block {
+    border-radius: 2px;
+    width: 100%;
+    margin-top: 26px;
+  }
+  
+  
