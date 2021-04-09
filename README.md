@@ -1,6 +1,7 @@
 # Hack Kosice Marathon: Bon Appétit
 
-*A template for projects submitted to HK Marathon 2021. Check out here https://www.youtube.com/watch?v=GdtxDyjA71I*
+*A template for projects submitted to HK Marathon 2021. Check out here https://www.youtube.com/watch?v=GdtxDyjA71I
+The complete code for the react app can be found in the master branch. Kindly change the branch.*
 
 ## Team
 
