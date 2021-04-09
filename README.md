@@ -51,6 +51,14 @@ integrate bistro's API if any or collaborate with bistro.
 
 *Here is the link to our video of the working prototype: https://youtu.be/GdtxDyjA71I
 There is a pdf file in the repository which explains the workflow.
+
+
+Steps to clone:
+
+1 . Clone the repo
+2.  Go to package.json and install all dependencies using yarn add pkg_name or npm i pkg_name
+3.  Get your API keys from Edamam and put it. 
+4.  Run the script yarn start:dev to run it
 *
 
 ## Presentation
