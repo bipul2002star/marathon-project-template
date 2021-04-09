@@ -1,6 +1,6 @@
 # Hack Kosice Marathon: Bon Appétit
 
-*A template for projects submitted to HK Marathon 2021. You can [fork this repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) and use it as a starting point.*
+*A template for projects submitted to HK Marathon 2021. Check out here https://www.youtube.com/watch?v=GdtxDyjA71I*
 
 ## Team
 
@@ -13,8 +13,7 @@
 
 ## Description
 
-*A clear statement of the challenges, issues, problems or gaps that your project solves and a brief description of how your project tackles the areas. What is the value of your solution? Who are the target users?
-
+*
 Challenge: How and when developers from SudoLabs order lunch. Currently, it can take them up to 30 minutes to figure this out. This is a lot of time they'd rather save and spend on building products.
 There are 3 questions they need to answer each day:
 1. Who is ordering today?
@@ -38,8 +37,7 @@ Target User:
 
 ## Protoype
 
-*Describe the basic functionality of your prototype. What are the features you were able to implement? What features would you like to implement?
-
+*
 
 The user needs to login first(not mandatory). Then he(they) has(have) to navigate to the find meal section and fill in the preferences to find the most relevant nutritious and delicious food. After he(they) click(s) on submit, he(they) will be presented with the top 3 relevant results from which he(they) can choose what he(they) has(have) to eat looking at the nutrition and ingredient values. He can either choose to cook himself hence, click on get receipe or order online. He can also add the items to a scheduler and plan the weekly single/group meal. He can also export and share it. He can also make changes in the schedule and add comments.
 
@@ -51,11 +49,14 @@ integrate bistro's API if any or collaborate with bistro.
 
 ## How to try
 
-*List any URLs relevant to demonstrating your prototype, e.g. a live url where judges can preview your app. Note that judges won't be able to setup anything in their computers.*
+*Here is the link to our video of the working prototype: https://youtu.be/GdtxDyjA71I
+There is a pdf file in the repository which explains the workflow.
+*
 
 ## Presentation
 
-*List any links to your presentation or additional materials that you want to share with the judges.*
+*There is a pdf file in the repository which explains the workflow.
+for instance you can check out  https://youtu.be/GdtxDyjA71I*
 
 ## Challenges and accomplishments
 
@@ -67,8 +68,7 @@ We are undergraduate students pursuing bachelors in Computer Science and would a
 
 ## Next steps
 
-*What do you need to do next to turn this prototype into a working solution? 
-The prototype is almost ready except that we are yet to collect the data, prepare the dataset and build the engine. We have also planned to integrate the online food delivery sevice's API(bistro) if any to build the utility more robust. We have learned Web Scraping which we would like to use in our web app to make it more versatile.
+*The prototype is almost ready except that we are yet to collect the data, prepare the dataset and build the engine. We have also planned to integrate the online food delivery sevice's API(bistro) if any to build the utility more robust. We have learned Web Scraping which we would like to use in our web app to make it more versatile.
 
 *
 
