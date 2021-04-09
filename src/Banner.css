@@ -1,0 +1,68 @@
+.banner {
+  background: url("https://images.pexels.com/photos/1765005/pexels-photo-1765005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") center center;
+  height: 87vh;
+  position: relative;
+}
+
+.banner__info {
+ 
+  background: linear-gradient(-45deg, #e64615, #ddcf0e, #f37121, #c0e218);
+	background-size: 400% 400%;
+	animation: gradient 15s ease infinite;
+    color: white;
+    padding-top: 16vh;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    height: 87vh;
+    width: 400px;
+}
+
+
+
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
+
+
+
+.banner__search {
+    display: flex;
+    flex-direction: column;
+}
+
+.banner__searchButton {
+  background-color: white !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  color: #7b113a !important;
+}
+
+.banner__info > button {
+    background-color: #7b113a;
+    color: white;
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.banner__info > button:hover {
+    background-color: white;
+    color: #7b113a;
+  }
+  
+
+.banner__info > h5 {
+    margin-top: 10px;
+}
+
+
