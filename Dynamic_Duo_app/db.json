@@ -1,0 +1,102 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Monday",
+      "breakfast": "Bread with Butter",
+      "lunch": "bryndzové halušky",
+      "dinner": "gulášová polievka",
+      "team": {
+        "size": "6",
+        "preference": "East European",
+        "mNationality": "Slovaks",
+        "favRestaurant": "Pijeme"
+      },
+      "comment": "LUNCH - Its A's marriage anniversary. He is giving treat."
+    },
+    {
+      "id": 2,
+      "name": "Tuesday",
+      "breakfast": "Ham and Cheese",
+      "lunch": "Jarná zeleninová, tagliatelle so zeleninovou omáčkou, parmezán",
+      "dinner": "jarná zeleninová + classic burger, lupienky",
+      "team": {
+        "size": "4",
+        "preference": "East European",
+        "mNationality": "Slovaks",
+        "favRestaurant": "AquaReina Bistro"
+      },
+      "comment": " LUNCH - Meeting at 1. Eat before that"
+    },
+    {
+      "id": 3,
+      "name": "Wednesday",
+      "breakfast": "Boiled Eggs Fry",
+      "lunch": "Paneer Butter Masala",
+      "dinner": "Schnitzel",
+      "team": {
+        "size": "12",
+        "preference": "East European",
+        "mNationality": "Slovaks",
+        "favRestaurant": "Dastef Streetfood"
+      },
+      "comment": "LUNCH - Lets eat some awesome lunch before the meeting at 2 so that we are energized"
+    },
+    {
+      "id": 4,
+      "name": "Thursday",
+      "breakfast": "Vegetables",
+      "lunch": "FRESH Buritto",
+      "dinner": "Noodles",
+      "team": {
+        "size": "16",
+        "preference": "East European",
+        "mNationality": "Slovaks",
+        "favRestaurant": "KFC"
+      },
+      "comment": "LUNCH -Its c's birthday. He is ordering."
+    },
+    {
+      "id": 5,
+      "name": "Friday",
+      "breakfast": "Sausages",
+      "lunch": "vepřo knedlo zelo",
+      "dinner": "Paneer Kadhai",
+      "team": {
+        "size": "12",
+        "preference": "East European",
+        "mNationality": "Slovaks",
+        "favRestaurant": "Donášková služba Cocobongo"
+      },
+      "comment": "LUNCH -Person B is going to order for all of us"
+    },
+    {
+      "id": 6,
+      "name": "Saturday",
+      "breakfast": "Salami",
+      "lunch": " Pizza Margherita",
+      "dinner": "Schnitzel",
+      "team": {
+        "size": "6",
+        "preference": "East European",
+        "mNationality": "Slovaks",
+        "favRestaurant": "Pizza Mix-Marion"
+      },
+      "comment": "LUNCH -Some awesome slovak dish today"
+    },
+    {
+      "id": 7,
+      "name": "Sunday",
+      "breakfast": "Cereals and Yoghurt",
+      "lunch": "Vegetable Biryani",
+      "dinner": "Fish Masala",
+      "team": {
+        "size": "8",
+        "preference": "Indian",
+        "mNationality": "Slovaks",
+        "favRestaurant": "Góvinda"
+      },
+      "comment": "Employee A is ordering some awesome Indian food for all."
+    }
+  ]
+}
