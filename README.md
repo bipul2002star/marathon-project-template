@@ -1,16 +1,15 @@
-# Hack Kosice Marathon: Your project name
+# Hack Kosice Marathon: Bon Appétit
 
 *A template for projects submitted to HK Marathon 2021. You can [fork this repository](https://docs.github.com/en/github/getting-started-with-github/fork-a-repo) and use it as a starting point.*
 
 ## Team
 
-*Your name here!*
+*Dynamic Duo*
 
 ### Team members
 
-- Teammate 1, School
-- Teammate 2, School
-- Teammate 3, School
+- Bipul Gautam, Indian Institute of Information Technology, Dharwad
+- Divyansh Tripathi, Indian Institute of Information Technology, Dharwad
 
 ## Description
 
